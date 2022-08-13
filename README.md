@@ -17,12 +17,13 @@ https://drive.google.com/file/d/1OCvfi5L_znC3xGGyH_hXEYEKSGcRleHU/view?usp=shari
 # How to use this repo
 - **Step1:** `git clone https://github.com/sayansaha934/Garments-Recommendation-System.git`
 - **Step2:** Change directory to `Garments-Recommendation-System`
-- **Step3:** Download the dataset and store all images in  `static/database`
-- **Step4:** Create a virtual env `conda create -n Garments-Recommendation-System python==3.6.9`
-- **Step5:** `conda activate Garments-Recommendation-System`
-- **Step6:** Install requirements `pip install -r requirements.txt`
-- **Step7:** Run `store_features.py` (This step extracts features from all images and stores in `features.pkl` file)
-- **Step8:** Run `app.py`
+- **Step3:** Create a directory 'database' inside `static`
+- **Step4:** Download the dataset and store all images in  `static/database`
+- **Step5:** Create a virtual env `conda create -n Garments-Recommendation-System python==3.6.9`
+- **Step6:** `conda activate Garments-Recommendation-System`
+- **Step7:** Install requirements `pip install -r requirements.txt`
+- **Step8:** Run `store_features.py` (This step extracts features from all images and stores in `features.pkl` file)
+- **Step9:** Run `app.py`
 
 # Future works
 All images and its corressponding feature vector will be stored in a database.
