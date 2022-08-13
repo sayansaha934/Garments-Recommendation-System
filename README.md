@@ -23,3 +23,6 @@ https://drive.google.com/file/d/1OCvfi5L_znC3xGGyH_hXEYEKSGcRleHU/view?usp=shari
 - **Step6:** Install requirements `pip install -r requirements.txt`
 - **Step7:** Run `store_features.py` (This step extracts features from all images and stores in `features.pkl` file)
 - **Step8:** Run `app.py`
+
+# Future works
+All images and its corressponding feature vector will be stored in a database.
