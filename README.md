@@ -16,7 +16,8 @@ https://drive.google.com/file/d/1OCvfi5L_znC3xGGyH_hXEYEKSGcRleHU/view?usp=shari
 
 # How to use this repo
 - **Step1:** Download the dataset and store all images in  `static/database`
-- **Step2:** Create a virtual env `conda create -n venv python==3.6.9`
-- **Step3:** Install requirements `pip install -r requirements.txt`
-- **Step4:** Run `store_features.py`
-- **Step5:** Run `app.py`
+- **Step2:** Create a virtual env `conda create -n Garments-Recommendation-System python==3.6.9`
+- **Step3:** `conda activate Garments-Recommendation-System python`
+- **Step4:** Install requirements `pip install -r requirements.txt`
+- **Step45:** Run `store_features.py`
+- **Step6:** Run `app.py`
