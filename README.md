@@ -21,5 +21,5 @@ https://drive.google.com/file/d/1OCvfi5L_znC3xGGyH_hXEYEKSGcRleHU/view?usp=shari
 - **Step4:** Create a virtual env `conda create -n Garments-Recommendation-System python==3.6.9`
 - **Step5:** `conda activate Garments-Recommendation-System`
 - **Step6:** Install requirements `pip install -r requirements.txt`
-- **Step7:** Run `python store_features.py`
-- **Step8:** Run `python app.py`
+- **Step7:** Run `store_features.py`
+- **Step8:** Run `app.py`
