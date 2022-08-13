@@ -15,9 +15,11 @@ https://user-images.githubusercontent.com/87168504/184480530-6899bc12-a4a2-4b65-
 https://drive.google.com/file/d/1OCvfi5L_znC3xGGyH_hXEYEKSGcRleHU/view?usp=sharing
 
 # How to use this repo
-- **Step1:** Download the dataset and store all images in  `static/database`
-- **Step2:** Create a virtual env `conda create -n Garments-Recommendation-System python==3.6.9`
-- **Step3:** `conda activate Garments-Recommendation-System python`
-- **Step4:** Install requirements `pip install -r requirements.txt`
-- **Step45:** Run `store_features.py`
-- **Step6:** Run `app.py`
+- **Step1:** `git clone https://github.com/sayansaha934/Garments-Recommendation-System.git`
+- **Step2:** Change directory to `Garments-Recommendation-System`
+- **Step3:** Download the dataset and store all images in  `static/database`
+- **Step4:** Create a virtual env `conda create -n Garments-Recommendation-System python==3.6.9`
+- **Step5:** `conda activate Garments-Recommendation-System`
+- **Step6:** Install requirements `pip install -r requirements.txt`
+- **Step7:** Run `python store_features.py`
+- **Step8:** Run `python app.py`
