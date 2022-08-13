@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/87168504/184480530-6899bc12-a4a2-4b65-
 # Dataset
 https://drive.google.com/file/d/1OCvfi5L_znC3xGGyH_hXEYEKSGcRleHU/view?usp=sharing
 
-# How to use this repo
+# How to use this repository
 - **Step1:** `git clone https://github.com/sayansaha934/Garments-Recommendation-System.git`
 - **Step2:** Change directory to `Garments-Recommendation-System`
 - **Step3:** Create a directory `database` inside `static`
